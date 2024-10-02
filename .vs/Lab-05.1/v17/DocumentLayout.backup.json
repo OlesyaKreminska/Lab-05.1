@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab-05.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB825C91-8E1E-4162-8000-D260638D06D7}|UnitTest-05.1\\UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab-05.1\\UnitTest-05.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB825C91-8E1E-4162-8000-D260638D06D7}|UnitTest-05.1\\UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest-05.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B8E358F-0E1C-42C5-8739-192E5E2141A6}|Lab-05.1.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab-05.1\\Lab-05.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B8E358F-0E1C-42C5-8739-192E5E2141A6}|Lab-05.1.vcxproj|solutionrelative:Lab-05.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab-05.1\\UnitTest-05.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest-05.1\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab-05.1\\UnitTest-05.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest-05.1\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T09:36:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab-05.1.cpp",
               "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab-05.1\\Lab-05.1.cpp",
               "RelativeDocumentMoniker": "Lab-05.1.cpp",
